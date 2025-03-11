@@ -40,7 +40,7 @@ namespace FiapAtiv1
             Console.WriteLine("Senha: ");
             string senha = Console.ReadLine();
 
-            return email == "email@email.com" && senha == "senha_12345";
+            return email == "rm551410@fiap.com.br" && senha == "RM551410";
         }
 
         static int Verificaidade()
